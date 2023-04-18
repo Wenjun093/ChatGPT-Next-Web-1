@@ -169,7 +169,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+            如果你觉得好用请添加tvxq_wen已防丢失本网站
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
